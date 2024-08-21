@@ -64,34 +64,34 @@
 
         <tbody>
             <tr>
-                <td>Smartphone XYZ</td>
+                <td>Xbox Series S</td>
                 <td><strong>3</strong></td>
                 <td rowspan="2">Veículos</td>
                 <td class="estoque">Em estoque</td>
-                <td><strong>Smartphone</strong> de ultima geração com 128GB de armazenamento.</td>
+                <td>Console de ultima geração.</td>
             </tr>
             
             <tr>
-                <td>Fone de Ouvido Bluetooth</td>
+                <td>Faca Karambit</td>
                 <td><strong>15</strong></td>
                 <td class="sestoque">Esgotado</td>
-                <td>Fone de ouvido sem fio com cancelamento de ruído</td>
+                <td>Faca de formato curvo estilizada</td>
             </tr>
 
             <tr>
-                <td>Camiseta Branca</td>
+                <td>Camiseta do SPFC</td>
                 <td><strong>50</strong></td>
                 <td>Roupas</td>
                 <td class="estoque">Em estoque</td>
-                <td>Camiseta branca básica de algodão, disponível em todos os tamanhos</td>
+                <td>Camiseta do maior time do Brasil</td>
             </tr>
 
             <tr>
-                <td>Arroz integral</td>
+                <td>Windows Phone</td>
                 <td><strong>200</strong></td>
                 <td>Alimentos</td>
                 <td class="estoque">Em estoque</td>
-                <td>Pacote de 5kg de arroz integral</td>
+                <td>Celular datado do mercado, relíquia</td>
             </tr>
 
         </tbody>
@@ -107,4 +107,7 @@
 </body>
 
 </html>
- 
+
+</body>
+
+</html>
